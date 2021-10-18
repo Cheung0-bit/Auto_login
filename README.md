@@ -1,6 +1,8 @@
 # Auto_login
 Python+Selenium实现自动化登录
 
+Python+Selenium for automated login
+
 
 
 通过selenium模拟浏览器，ddddocr(带带弟弟OCR库)实现验证码的识别，进行自动化登录的小工具。可以此为参考模板，做出更多有意思的自动化小工具。
