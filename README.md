@@ -13,5 +13,5 @@ A widget to automate login by simulating a browser through selenium and dddocr (
 
 The following is a demonstration video：
 
-[![autu_login](https://0-bit.oss-cn-beijing.aliyuncs.com/autu_login.png)](https://www.bilibili.com/video/BV1xq4y197Ht)
+[![autu_login](https://0-bit.oss-cn-beijing.aliyuncs.com/image-20211018202756918.png)](https://www.bilibili.com/video/BV1xq4y197Ht)
 
